@@ -1,0 +1,54 @@
+  .header1{
+     background-color: #000066;
+     padding: 3px 30px 3px 30px;
+     overflow: hidden;
+     }
+     
+ .footer1{
+     background-color: #000066;
+     padding: 3px 30px 3px 30px;
+      overflow: hidden;
+         }
+ body{
+     margin: 0;
+     font-family: Arial, Helvetica, sans-serif;
+                }
+                
+            .header1 a {
+                float: left;
+                text-align: center;
+                padding: 14px 16px;
+                text-decoration: none;
+                font-size: 17px;
+                
+                color: white;
+                font-weight: lighter;
+            }
+            
+
+            .header1 a:hover {
+                background-color:wheat;
+                color: blue;
+            }
+    
+
+            .footer1 a {
+                float: left;
+                text-align: center;
+                padding: 14px 16px;
+                text-decoration: none;
+                font-size: 17px;
+                
+                color: white;
+                font-weight: lighter;
+            }
+            
+
+            .footer1 a:hover {
+                background-color:wheat;
+                color:blue;
+            }  
+            button{
+                padding: 10px 20px 10px 20px
+            }
+            
